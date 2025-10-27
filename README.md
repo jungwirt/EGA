@@ -9,3 +9,5 @@ The repository includes:
 - file with consistent versions of programs and applications which were used.
 
 This project was developed as part of a comparative study focused on differences in gene expression between various control datasets to ensure a more consistent interpretation of single-cell analysis results.
+
+Raw data is available via European Genome-Phenome Archive:  [https://ega-archive.org/studies/EGAS50000000769](https://ega-archive.org/studies/EGAS50000000769)
