@@ -1,0 +1,9 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	median_sequence_length	basic_statistics	per_base_sequence_quality	per_tile_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+non_covid_1	non_covid_1.bam	Conventional base calls	Sanger / Illumina 1.9	85105020.0	0.0	91.0	41.0	59.33446159387184	91.0	91	pass	pass	pass	pass	warn	warn	pass	pass	warn	pass	pass
+non_covid_2	non_covid_2.bam	Conventional base calls	Sanger / Illumina 1.9	34708483.0	0.0	90.0	43.0	76.21005503022013	90.0	90	pass	pass	warn	pass	warn	warn	pass	pass	pass	warn	pass
+non_covid_3	non_covid_3.bam	Conventional base calls	Sanger / Illumina 1.9	173492322.0	0.0	91.0	42.0	54.00095659985262	91.0	91	pass	pass	pass	pass	fail	pass	pass	pass	warn	pass	pass
+non_covid_4	non_covid_4.bam	Conventional base calls	Sanger / Illumina 1.9	357070233.0	0.0	91.0	42.0	46.240949185214696	91.0	91	pass	pass	pass	pass	warn	warn	pass	pass	fail	pass	pass
+non_covid_5	non_covid_5.bam	Conventional base calls	Sanger / Illumina 1.9	138710911.0	0.0	90.0	43.0	60.297421630456164	90.0	90	pass	pass	pass	pass	fail	warn	pass	pass	warn	warn	pass
+non_covid_6	non_covid_6.bam	Conventional base calls	Sanger / Illumina 1.9	220056164.0	0.0	91.0	42.0	56.23523168699766	91.0	91	pass	pass	pass	pass	warn	warn	pass	pass	warn	pass	pass
+non_covid_7	non_covid_7.bam	Conventional base calls	Sanger / Illumina 1.9	131046481.0	0.0	91.0	42.0	60.37266321301811	91.0	91	pass	pass	pass	pass	warn	warn	pass	pass	warn	pass	pass
+non_covid_8	non_covid_8.bam	Conventional base calls	Sanger / Illumina 1.9	142581727.0	0.0	90.0	42.0	62.5954045367629	90.0	90	pass	pass	pass	pass	warn	fail	pass	pass	warn	warn	pass

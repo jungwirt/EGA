@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	non_covid_1	/mnt/dysk_D/EGA/EGAD50000001130 scrnaseq/results/QC/non_covid_1_fastqc.zip
+FastQC	all_sections	non_covid_2	/mnt/dysk_D/EGA/EGAD50000001130 scrnaseq/results/QC/non_covid_2_fastqc.zip
+FastQC	all_sections	non_covid_3	/mnt/dysk_D/EGA/EGAD50000001130 scrnaseq/results/QC/non_covid_3_fastqc.zip
+FastQC	all_sections	non_covid_4	/mnt/dysk_D/EGA/EGAD50000001130 scrnaseq/results/QC/non_covid_4_fastqc.zip
+FastQC	all_sections	non_covid_5	/mnt/dysk_D/EGA/EGAD50000001130 scrnaseq/results/QC/non_covid_5_fastqc.zip
+FastQC	all_sections	non_covid_6	/mnt/dysk_D/EGA/EGAD50000001130 scrnaseq/results/QC/non_covid_6_fastqc.zip
+FastQC	all_sections	non_covid_7	/mnt/dysk_D/EGA/EGAD50000001130 scrnaseq/results/QC/non_covid_7_fastqc.zip
+FastQC	all_sections	non_covid_8	/mnt/dysk_D/EGA/EGAD50000001130 scrnaseq/results/QC/non_covid_8_fastqc.zip

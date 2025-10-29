@@ -1,0 +1,3 @@
+[2025-10-29 11:36:50,108] multiqc.core.version_check                         [WARNING]  MultiQC Version v1.32 now available!
+[2025-10-29 11:36:50,109] multiqc.core.file_search                           [INFO   ]  Search path: /mnt/dysk_D/EGA/EGAD50000001130 scrnaseq/results/QC
+[2025-10-29 11:36:50,304] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 8 reports
