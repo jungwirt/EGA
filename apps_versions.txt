@@ -20,3 +20,4 @@ scipy               | 1.16.2
 seaborn             | 0.13.2
 human ref genome    | GRCh38-2024-A
 subread             | 2.1.1
+star                | 2.7.11
